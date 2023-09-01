@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loariya01
+- 👋 Hi, I’m @Loariya
 
 <!---
 Loariya01/Loariya01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
